@@ -7,7 +7,7 @@ There are four subcourses in the specializtion and each subcourse requires four-
 
 ## 1. [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer/home/welcome)
 
-- Week 1: Karatsuba Multiplication
+- Week 1: [Karatsuba Multiplication](https://github.com/keithpink/algorithms_specialization/blob/main/Divide_and_Conquer_Sorting_and_Searching_and_Randomized_Algorithms/KM.py)
 
 - Week 2:
 
