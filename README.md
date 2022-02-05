@@ -13,7 +13,7 @@ There are four subcourses in the specializtion and each subcourse requires four-
 
 - Week 3: [QuickSort](https://github.com/keithpink/algorithms_specialization/blob/main/Divide_and_Conquer_Sorting_and_Searching_and_Randomized_Algorithms/QuickSort.py)
 
-- Week 4:
+- Week 4: [MinCut](https://github.com/keithpink/algorithms_specialization/blob/main/Divide_and_Conquer_Sorting_and_Searching_and_Randomized_Algorithms/kargerMinCut.py)
 
 
 ### 2. [Graph Search, Shortest Paths, and Data Structures]()
