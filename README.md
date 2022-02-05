@@ -11,7 +11,7 @@ There are four subcourses in the specializtion and each subcourse requires four-
 
 - Week 2: [Inversion Compution](https://github.com/keithpink/algorithms_specialization/blob/main/Divide_and_Conquer_Sorting_and_Searching_and_Randomized_Algorithms/IntegerArray.py)
 
-- Week 3:
+- Week 3: [QuickSort](https://github.com/keithpink/algorithms_specialization/blob/main/Divide_and_Conquer_Sorting_and_Searching_and_Randomized_Algorithms/QuickSort.py)
 
 - Week 4:
 
