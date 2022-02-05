@@ -21,6 +21,20 @@ To get the most out of this assignment, your program should restrict itself to m
 
 
 
-### Week 3:
+### Week 3: [QuickSort](https://github.com/keithpink/algorithms_specialization/blob/main/Divide_and_Conquer_Sorting_and_Searching_and_Randomized_Algorithms/QuickSort.py)
+
+**Question**: compute the total number of comparisons used to sort the given input file by QuickSort.
+
+['QuickSort.txt'](https://github.com/keithpink/algorithms_specialization/blob/main/Divide_and_Conquer_Sorting_and_Searching_and_Randomized_Algorithms/QuickSort.txt)
+contains all of the integers between 1 and 10,000 (inclusive, with no repeats) in unsorted order. The integer in the i<sup>th</sup> row of the file gives you the i<sup>th</sup> entry of an input array. As you know, the number of comparisons depends on which elements are chosen as pivots, so we'll ask you to explore three different pivoting rules:
+
+* first element as the pivot
+* last element as the pivot
+* "median of the three" as the pivot 
+
+You should not count comparisons one-by-one.  Rather, when there is a recursive call on a subarray of length mm, you should simply add 
+*m−1* to your running total of comparisons.  (This is because the pivot element is compared to each of the other *m−1* elements in the subarray in this recursive call.)
+
+
 
 ### Week 4:
