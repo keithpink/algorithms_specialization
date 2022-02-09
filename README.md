@@ -20,7 +20,7 @@ There are four subcourses in the specializtion and each subcourse requires four-
 
 - Week 1: [SCC](https://github.com/keithpink/algorithms_specialization/blob/main/Graph_Search_Shortest_Paths_and_Data_Structures/scc.py)
 
-- Week 2:
+- Week 2: [Dijkstra's Algorithm](https://github.com/keithpink/algorithms_specialization/blob/main/Graph_Search_Shortest_Paths_and_Data_Structures/dijkstra.py)
 
 - Week 3:
 
@@ -28,4 +28,22 @@ There are four subcourses in the specializtion and each subcourse requires four-
 
 ### 3. [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming]()
 
+- Week 1: 
+
+- Week 2:
+
+- Week 3:
+
+- Week 4:
+
+
 ### 4. [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them]()
+
+- Week 1: 
+
+- Week 2:
+
+- Week 3:
+
+- Week 4:
+
