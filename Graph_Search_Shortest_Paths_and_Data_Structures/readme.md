@@ -17,8 +17,10 @@
 Your task is to run Dijkstra's shortest-path algorithm on this graph, using 1 (the first vertex) as the source vertex, and to compute the shortest-path distances between 1 and the following ten vertices, in order: 7,37,59,82,99,115,133,165,188,197.
 
 
+## Week 3: [Median Maintenance](https://github.com/keithpink/algorithms_specialization/blob/main/Graph_Search_Shortest_Paths_and_Data_Structures/Median.py)
 
-## Week 3:
+**Question**: maintain the median of a given list of numbers
 
+['Median.txt'](https://github.com/keithpink/algorithms_specialization/blob/main/Graph_Search_Shortest_Paths_and_Data_Structures/Median.txt) a list of the integers from 1 to 10000 in unsorted order; you should treat this as a stream of numbers, arriving one by one. Compute the sum of these 10000 medians, modulo 10000 (i.e., only the last 4 digits). 
 
 ## Week 4:
