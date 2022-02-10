@@ -22,7 +22,7 @@ There are four subcourses in the specializtion and each subcourse requires four-
 
 - Week 2: [Dijkstra's Algorithm](https://github.com/keithpink/algorithms_specialization/blob/main/Graph_Search_Shortest_Paths_and_Data_Structures/dijkstra.py)
 
-- Week 3:
+- Week 3: [Median Maintenance](https://github.com/keithpink/algorithms_specialization/blob/main/Graph_Search_Shortest_Paths_and_Data_Structures/Median.py)
 
 - Week 4:
 
