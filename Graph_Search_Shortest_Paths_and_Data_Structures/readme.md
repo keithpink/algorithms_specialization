@@ -23,4 +23,10 @@ Your task is to run Dijkstra's shortest-path algorithm on this graph, using 1 (t
 
 ['Median.txt'](https://github.com/keithpink/algorithms_specialization/blob/main/Graph_Search_Shortest_Paths_and_Data_Structures/Median.txt) a list of the integers from 1 to 10000 in unsorted order; you should treat this as a stream of numbers, arriving one by one. Compute the sum of these 10000 medians, modulo 10000 (i.e., only the last 4 digits). 
 
-## Week 4:
+## Week 4: [Prob-2Sum](https://github.com/keithpink/algorithms_specialization/blob/main/Graph_Search_Shortest_Paths_and_Data_Structures/prob-2sum.py)
+
+**Question**: compute distinct 2sum combinations.
+
+['Prob-2Sum.txt'](https://github.com/keithpink/algorithms_specialization/blob/main/Graph_Search_Shortest_Paths_and_Data_Structures/prob-2sum.txt) contains 1 million integers, both positive and negative (there might be some repetitions!).This is your array of integers, with the i<sup>th</sup> row of the file specifying the i<sup>th</sup> entry of the array.
+
+Your task is to compute the number of target values tt in the interval [-10000,10000] (inclusive) such that there are distinct numbers x,y in the input file that satisfy x+y=t.
