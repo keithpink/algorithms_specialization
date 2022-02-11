@@ -24,7 +24,7 @@ There are four subcourses in the specializtion and each subcourse requires four-
 
 - Week 3: [Median Maintenance](https://github.com/keithpink/algorithms_specialization/blob/main/Graph_Search_Shortest_Paths_and_Data_Structures/Median.py)
 
-- Week 4:
+- Week 4: [Prob-2Sum](https://github.com/keithpink/algorithms_specialization/blob/main/Graph_Search_Shortest_Paths_and_Data_Structures/prob-2sum.py)
 
 ### 3. [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming]()
 
