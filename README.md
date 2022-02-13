@@ -28,7 +28,7 @@ There are four subcourses in the specializtion and each subcourse requires four-
 
 ### 3. [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming]()
 
-- Week 1: 
+- Week 1: [Greedy Alogrithm](https://github.com/keithpink/algorithms_specialization/blob/main/Greedy_Algorithms_Minimum_Spanning_Trees_and_Dynamic_Programming/greedy.py)
 
 - Week 2:
 
