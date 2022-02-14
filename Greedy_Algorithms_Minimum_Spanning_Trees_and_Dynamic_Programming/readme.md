@@ -15,7 +15,15 @@
 
 Your task is to run Prim's minimum spanning tree algorithm on this graph.
 
-## Week 2
+## Week 2: [K-clustering]()
+
+1. **Question: what is the maximum spacing of a 4-clustering?**
+
+['clustering1.txt']() file describes a distance function (equivalently, a complete graph with edge costs). For example, the third line of the file is "1 3 5250", indicating that the distance between nodes 1 and 3 (equivalently, the cost of the edge (1,3)) is 5250.  You can assume that distances are positive, but you should NOT assume that they are distinct.
+
+2. **Question: what is the largest value of kk such that there is a kk-clustering with spacing at least 3?**
+
+['clustering2.txt']() is a MUCH bigger graph. So big, in fact, that the distances (i.e., edge costs) are only defined implicitly, rather than being provided as an explicit list. The distance between two nodes u and v in this problem is defined as the Hamming distance--- the number of differing bits --- between the two nodes' labels. For example, the Hamming distance between the 24-bit label of node #2 above and the label "0 1 0 0 0 1 0 0 0 1 0 1 1 1 1 1 1 0 1 0 0 1 0 1" is 3 (since they differ in the 3rd, 7th, and 21st bits).
 
 ## Week 3
 
