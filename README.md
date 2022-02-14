@@ -26,7 +26,7 @@ There are four subcourses in the specializtion and each subcourse requires four-
 
 - Week 4: [Prob-2Sum](https://github.com/keithpink/algorithms_specialization/blob/main/Graph_Search_Shortest_Paths_and_Data_Structures/prob-2sum.py)
 
-### 3. [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming]()
+### 3. [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://github.com/keithpink/algorithms_specialization/tree/main/Greedy_Algorithms_Minimum_Spanning_Trees_and_Dynamic_Programming)
 
 - Week 1: [Greedy Alogrithm](https://github.com/keithpink/algorithms_specialization/blob/main/Greedy_Algorithms_Minimum_Spanning_Trees_and_Dynamic_Programming/greedy.py)
 
