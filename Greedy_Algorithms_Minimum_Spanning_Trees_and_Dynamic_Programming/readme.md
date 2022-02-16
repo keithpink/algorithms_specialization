@@ -25,15 +25,15 @@ Your task is to run Prim's minimum spanning tree algorithm on this graph.
 
 ['clustering2.txt'](https://github.com/keithpink/algorithms_specialization/blob/main/Greedy_Algorithms_Minimum_Spanning_Trees_and_Dynamic_Programming/clustering2.txt) is a MUCH bigger graph. So big, in fact, that the distances (i.e., edge costs) are only defined implicitly, rather than being provided as an explicit list. The distance between two nodes u and v in this problem is defined as the Hamming distance--- the number of differing bits --- between the two nodes' labels. For example, the Hamming distance between the 24-bit label of node #2 above and the label "0 1 0 0 0 1 0 0 0 1 0 1 1 1 1 1 1 0 1 0 0 1 0 1" is 3 (since they differ in the 3rd, 7th, and 21st bits).
 
-## Week 3: [Huffman Coding]()
+## Week 3: [Huffman Coding](https://github.com/keithpink/algorithms_specialization/blob/main/Greedy_Algorithms_Minimum_Spanning_Trees_and_Dynamic_Programming/hauffman.py)
 
 1. **Question: compute the maximum/minimum length of a codeword**
 
-['hauffman.txt']() file describes an instance of the Hauffman coding problem. For example, the third line of the file is "6852892," indicating that the weight of the second symbol of the alphabet is 6852892. What is the maximum/minimum length of a codeword in the resulting Huffman code?
+['hauffman.txt'](https://github.com/keithpink/algorithms_specialization/blob/main/Greedy_Algorithms_Minimum_Spanning_Trees_and_Dynamic_Programming/huffman.txt) file describes an instance of the Hauffman coding problem. For example, the third line of the file is "6852892," indicating that the weight of the second symbol of the alphabet is 6852892. What is the maximum/minimum length of a codeword in the resulting Huffman code?
 
 2. **Question: computing a maximum-weight independent set of a path graph**
 
-['mwis.txt']() file describes the weights of the vertices in a path graph (with the weights listed in the order in which vertices appear in the path). For example, the third line of the file is "6395702," indicating that the weight of the second vertex of the graph is 6395702. Your task in this problem is to run the dynamic programming algorithm (and the reconstruction procedure) from lecture on this data set. The question is: of the vertices 1, 2, 3, 4, 17, 117, 517, and 997, which ones belong to the maximum-weight independent set? 
+['mwis.txt'](https://github.com/keithpink/algorithms_specialization/blob/main/Greedy_Algorithms_Minimum_Spanning_Trees_and_Dynamic_Programming/mwis.txt) file describes the weights of the vertices in a path graph (with the weights listed in the order in which vertices appear in the path). For example, the third line of the file is "6395702," indicating that the weight of the second vertex of the graph is 6395702. Your task in this problem is to run the dynamic programming algorithm (and the reconstruction procedure) from lecture on this data set. The question is: of the vertices 1, 2, 3, 4, 17, 117, 517, and 997, which ones belong to the maximum-weight independent set? 
 
 
 ## Week 4: [Knapsack]()
