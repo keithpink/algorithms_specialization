@@ -36,15 +36,15 @@ Your task is to run Prim's minimum spanning tree algorithm on this graph.
 ['mwis.txt'](https://github.com/keithpink/algorithms_specialization/blob/main/Greedy_Algorithms_Minimum_Spanning_Trees_and_Dynamic_Programming/mwis.txt) file describes the weights of the vertices in a path graph (with the weights listed in the order in which vertices appear in the path). For example, the third line of the file is "6395702," indicating that the weight of the second vertex of the graph is 6395702. Your task in this problem is to run the dynamic programming algorithm (and the reconstruction procedure) from lecture on this data set. The question is: of the vertices 1, 2, 3, 4, 17, 117, 517, and 997, which ones belong to the maximum-weight independent set? 
 
 
-## Week 4: [Knapsack]()
+## Week 4: [Knapsack](https://github.com/keithpink/algorithms_specialization/blob/main/Greedy_Algorithms_Minimum_Spanning_Trees_and_Dynamic_Programming/Knapsack.py)
 
 1. **Question: solve a Kanpsack's problem.**
 
-['knapsack1.txt']() file describes a knapsack instance. For example, the third line of the file is "50074 659", indicating that the second item has value 50074 and size 659, respectively. You can assume that all numbers are positive.  You should assume that item weights and the knapsack capacity are integers.
+['knapsack1.txt'](https://github.com/keithpink/algorithms_specialization/blob/main/Greedy_Algorithms_Minimum_Spanning_Trees_and_Dynamic_Programming/knapsack1.txt) file describes a knapsack instance. For example, the third line of the file is "50074 659", indicating that the second item has value 50074 and size 659, respectively. You can assume that all numbers are positive.  You should assume that item weights and the knapsack capacity are integers.
 
 2. **Question: solve a much bigger Kanpsack's problem.**
 
-['knapsack2.txt']() describes a knapsack instance. For example, the third line of the file is "50074 834558", indicating that the second item has value 50074 and size 834558, respectively.  As before, you should assume that item weights and the knapsack capacity are integers.
+['knapsack2.txt'](https://github.com/keithpink/algorithms_specialization/blob/main/Greedy_Algorithms_Minimum_Spanning_Trees_and_Dynamic_Programming/knapsack2.txt) describes a knapsack instance. For example, the third line of the file is "50074 834558", indicating that the second item has value 50074 and size 834558, respectively.  As before, you should assume that item weights and the knapsack capacity are integers.
 
 
 
