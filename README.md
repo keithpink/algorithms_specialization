@@ -34,7 +34,7 @@ There are four subcourses in the specializtion and each subcourse requires four-
 
 - Week 3: [Huffman Coding](https://github.com/keithpink/algorithms_specialization/blob/main/Greedy_Algorithms_Minimum_Spanning_Trees_and_Dynamic_Programming/hauffman.py)
 
-- Week 4: [Knapsack]
+- Week 4: [Knapsack](https://github.com/keithpink/algorithms_specialization/blob/main/Greedy_Algorithms_Minimum_Spanning_Trees_and_Dynamic_Programming/Knapsack.py)
 
 
 ### 4. [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them]()
