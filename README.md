@@ -39,7 +39,7 @@ There are four subcourses in the specializtion and each subcourse requires four-
 
 ### 4. [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them]()
 
-- Week 1: 
+- Week 1: [Shortest Path](https://github.com/keithpink/algorithms_specialization/blob/main/Shortest_Paths_Revisited_NP_Complete_Problems/shortestpath.py)
 
 - Week 2:
 
