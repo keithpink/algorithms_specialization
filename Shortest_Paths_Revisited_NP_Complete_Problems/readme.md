@@ -1,10 +1,10 @@
 # 4. [Shortest Paths Revisited, NP-Complete Problems](https://www.coursera.org/learn/algorithms-npcomplete)
 
-## Week 1: [Shortest Path]()
+## Week 1: [Shortest Path](https://github.com/keithpink/algorithms_specialization/blob/main/Shortest_Paths_Revisited_NP_Complete_Problems/shortestpath.py)
 
 **Question: compute the "shortest shortest path"**
 
-['g1.txt'](), ['g2.txt']() and ['g3.txt']() describe three graphs. Question 1
+['g1.txt'](https://github.com/keithpink/algorithms_specialization/blob/main/Shortest_Paths_Revisited_NP_Complete_Problems/g1.txt), ['g2.txt'](https://github.com/keithpink/algorithms_specialization/blob/main/Shortest_Paths_Revisited_NP_Complete_Problems/g2.txt) and ['g3.txt'](https://github.com/keithpink/algorithms_specialization/blob/main/Shortest_Paths_Revisited_NP_Complete_Problems/g3.txt) describe three graphs. Question 1
 In this assignment you will implement one or more algorithms for the all-pairs shortest-path problem.  Here are data files describing three graphs: The first line indicates the number of vertices and edges, respectively.  Each subsequent line describes an edge (the first two numbers are its tail and head, respectively) and its length (the third number).  NOTE: some of the edge lengths are negative.  NOTE: These graphs may or may not have negative-cost cycles.
 
 Your task is to compute the "shortest shortest path".  Precisely, you must first identify which, if any, of the three graphs have no negative cycles.  For each such graph, you should compute all-pairs shortest paths and remember the smallest one.
