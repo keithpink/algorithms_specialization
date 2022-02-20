@@ -9,11 +9,11 @@ In this assignment you will implement one or more algorithms for the all-pairs s
 
 Your task is to compute the "shortest shortest path".  Precisely, you must first identify which, if any, of the three graphs have no negative cycles.  For each such graph, you should compute all-pairs shortest paths and remember the smallest one.
 
-## Week 2: [TSP]()
+## Week 2: [TSP](https://github.com/keithpink/algorithms_specialization/blob/main/Shortest_Paths_Revisited_NP_Complete_Problems/tsp.py)
 
 **Question: solve the traveling salesman problem**
 
-['tsp.txt']() is a data file describing a TSP instance. The first line indicates the number of cities.  Each city is a point in the plane, and each subsequent line indicates the x- and y-coordinates of a single city. The distance between two cities is defined as the Euclidean distance. Compute the minimum cost of a traveling salesman tour for this instance, rounded down to the nearest integer.
+['tsp.txt'](https://github.com/keithpink/algorithms_specialization/blob/main/Shortest_Paths_Revisited_NP_Complete_Problems/tsp.txt) is a data file describing a TSP instance. The first line indicates the number of cities.  Each city is a point in the plane, and each subsequent line indicates the x- and y-coordinates of a single city. The distance between two cities is defined as the Euclidean distance. Compute the minimum cost of a traveling salesman tour for this instance, rounded down to the nearest integer.
 
 ## Week 3: [Heuristic for TSP]()
 
