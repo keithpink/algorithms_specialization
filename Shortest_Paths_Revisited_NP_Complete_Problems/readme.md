@@ -31,6 +31,6 @@ Your task is to compute the "shortest shortest path".  Precisely, you must first
 
 **Question: solve the 2SAT problem**
 
-'2sat1'~'2sat6' are 6 different 2SAT instances. In each instance, the number of variables and the number of clauses is the same, and this number is specified on the first line of the file.  Each subsequent line specifies a clause via its two literals, with a number denoting the variable and a "-" sign denoting logical "not".  For example, the second line of the first data file is "-16808 75250", which indicates the clause NOT x<sub>16808</sub> OR x<sub>75250</sub>.
+[SAT_data]() contains 6 different 2SAT instances. In each instance, the number of variables and the number of clauses is the same, and this number is specified on the first line of the file.  Each subsequent line specifies a clause via its two literals, with a number denoting the variable and a "-" sign denoting logical "not".  For example, the second line of the first data file is "-16808 75250", which indicates the clause NOT x<sub>16808</sub> OR x<sub>75250</sub>.
 
 Your task is to determine which of the 6 instances are satisfiable, and which are unsatisfiable.  
