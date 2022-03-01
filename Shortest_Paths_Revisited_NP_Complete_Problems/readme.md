@@ -19,7 +19,7 @@ Your task is to compute the "shortest shortest path".  Precisely, you must first
 
 **Question: implement a heuristic for the TSP**
 
-['nn.txt']() describes a TSP instance. The first line indicates the number of cities. Each city is a point in the plane, and each subsequent line indicates the x- and y-coordinates of a single city. The distance between two cities is defined as the Euclidean distance You should implement the nearest neighbor heuristic:
+['nn.txt'](https://github.com/keithpink/algorithms_specialization/blob/main/Shortest_Paths_Revisited_NP_Complete_Problems/nn.txt) describes a TSP instance. The first line indicates the number of cities. Each city is a point in the plane, and each subsequent line indicates the x- and y-coordinates of a single city. The distance between two cities is defined as the Euclidean distance You should implement the nearest neighbor heuristic:
 
 1. Start the tour at the first city.
 
@@ -31,6 +31,6 @@ Your task is to compute the "shortest shortest path".  Precisely, you must first
 
 **Question: solve the 2SAT problem**
 
-[SAT_data]() contains 6 different 2SAT instances. In each instance, the number of variables and the number of clauses is the same, and this number is specified on the first line of the file.  Each subsequent line specifies a clause via its two literals, with a number denoting the variable and a "-" sign denoting logical "not".  For example, the second line of the first data file is "-16808 75250", which indicates the clause NOT x<sub>16808</sub> OR x<sub>75250</sub>.
+[SAT_data](https://github.com/keithpink/algorithms_specialization/tree/main/Shortest_Paths_Revisited_NP_Complete_Problems/SAT_data) contains 6 different 2SAT instances. In each instance, the number of variables and the number of clauses is the same, and this number is specified on the first line of the file.  Each subsequent line specifies a clause via its two literals, with a number denoting the variable and a "-" sign denoting logical "not".  For example, the second line of the first data file is "-16808 75250", which indicates the clause NOT x<sub>16808</sub> OR x<sub>75250</sub>.
 
 Your task is to determine which of the 6 instances are satisfiable, and which are unsatisfiable.  
