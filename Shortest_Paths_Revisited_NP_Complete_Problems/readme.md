@@ -27,7 +27,7 @@ Your task is to compute the "shortest shortest path".  Precisely, you must first
 
 3. Once every city has been visited exactly once, return to the first city to complete the tour.
 
-## Week 4: [2SAT]()
+## Week 4: [2SAT](https://github.com/keithpink/algorithms_specialization/blob/main/Shortest_Paths_Revisited_NP_Complete_Problems/2SAT.py)
 
 **Question: solve the 2SAT problem**
 
