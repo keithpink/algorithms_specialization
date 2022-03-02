@@ -15,7 +15,7 @@ Your task is to compute the "shortest shortest path".  Precisely, you must first
 
 ['tsp.txt'](https://github.com/keithpink/algorithms_specialization/blob/main/Shortest_Paths_Revisited_NP_Complete_Problems/tsp.txt) is a data file describing a TSP instance. The first line indicates the number of cities.  Each city is a point in the plane, and each subsequent line indicates the x- and y-coordinates of a single city. The distance between two cities is defined as the Euclidean distance. Compute the minimum cost of a traveling salesman tour for this instance, rounded down to the nearest integer.
 
-## Week 3: [Heuristic for TSP]()
+## Week 3: [Heuristic for TSP](https://github.com/keithpink/algorithms_specialization/blob/main/Shortest_Paths_Revisited_NP_Complete_Problems/Assignment%204.3.ipynb)
 
 **Question: implement a heuristic for the TSP**
 

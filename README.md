@@ -43,7 +43,7 @@ There are four subcourses in the specializtion and each subcourse requires four-
 
 - Week 2: [TSP](https://github.com/keithpink/algorithms_specialization/blob/main/Shortest_Paths_Revisited_NP_Complete_Problems/tsp.py)
 
-- Week 3: [Heuristic for TSP]()
+- Week 3: [Heuristic for TSP](https://github.com/keithpink/algorithms_specialization/blob/main/Shortest_Paths_Revisited_NP_Complete_Problems/Assignment%204.3.ipynb)
 
 - Week 4: [2SAT](https://github.com/keithpink/algorithms_specialization/blob/main/Shortest_Paths_Revisited_NP_Complete_Problems/2SAT.py)
 
